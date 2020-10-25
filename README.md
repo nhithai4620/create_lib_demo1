@@ -24,4 +24,4 @@ nothing in here! :)))
 ``` python
 import thaipackage
 
-print(blank.reverse("minhng.info")) # "ofni.gnhnim"
+print(thaipackage.reverse("minhng.info")) # "ofni.gnhnim"
