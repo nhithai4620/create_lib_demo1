@@ -2,4 +2,5 @@
 
 
 def say_hello():
-    print("Welcome to Blank package!")
+    print("Welcome to Nhi Thai package!")
+    print("nothing in here! :))) ")
